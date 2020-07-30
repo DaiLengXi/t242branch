@@ -7,4 +7,8 @@ public class Cal{
 
   }
 
+   public void sleep(){
+    
+   }
+
 }
